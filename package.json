@@ -1,16 +1,16 @@
 {
-"name": "treasureofaztecpng",
-"theme": "treasure of aztec png",
-"version": "5.4.5",
-"description": "treasure of aztec png ทางเข้าหลักเว็บคาสิโนเว็บตรง ระบบออโต้ ให้เครดิตฟรี",
-"keywords": [
-"treasure of aztec png",
-"treasure of aztec png เครดิตฟรี",
-"treasure of aztec png ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/treasureofaztecpng",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "treasureofaztecpng",
+  "theme": "treasure of aztec png",
+  "version": "5.5.0",
+  "description": "treasure of aztec png ทางเข้าหลักเว็บคาสิโนเว็บตรง ระบบออโต้ ให้เครดิตฟรี",
+  "keywords": [
+    "treasure of aztec png",
+    "treasure of aztec png เครดิตฟรี",
+    "treasure of aztec png ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/treasureofaztecpng",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
